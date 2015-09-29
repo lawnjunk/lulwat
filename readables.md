@@ -8,15 +8,15 @@ remember
 ```
 
 # Index
-* [\*nix](#\*nix)
-* [Shells](#Shells)
- * [zsh](#Zsh)
-* [Languages](#Languages)
- * [JavaScript](#JavaScript)
-* [Databases](#Databases)
+* [\*nix](#*nix)
+* [Shells](#shells)
+ * [zsh](#zsh)
+* [Languages](#languages)
+ * [JavaScript](#javascript)
+* [Databases](#databases)
  * [MongoDB](#mongodb)
-* [Tools](#Tools)
- * [Vim](#Vim)
+* [Tools](#tools)
+ * [Vim](#vim)
 
 # \*nix
  * [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) 
