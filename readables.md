@@ -9,10 +9,12 @@ remember
 
 # Index
 * [\*nix](#*nix)
+  * [Unix System Errors](http://www-numi.fnal.gov/offline_software/srt_public_context/WebDocs/Errors/unix_system_errors.html)
 * [Shells](#shells)
  * [zsh](#zsh)
 * [Languages](#languages)
  * [JavaScript](#javascript)
+ * [HTML5](#html5)
 * [Databases](#databases)
  * [MongoDB](#mongodb)
 * [Tools](#tools)
@@ -29,8 +31,15 @@ remember
 ## Bash
 * [Bash Beginners Guide](http://tldp.org/LDP/Bash-Beginners-Guide/html/index.html)
 * [Operations on variables](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_10_03.html)
+* [learn how to use computers](http://www.anotheruiguy.com/ux-design-dev/_book/learning-computers/README.html)
 
 # Languages
+## HTML5
+* [html5 as a platform](http://www.anotheruiguy.com/ux-design-dev/_book/html5/README.html)
+## CSS
+* [Dales css](http://www.anotheruiguy.com/ux-design-dev/_book/css-typo/README.html)
+## SASS
+* [Dales SASS](http://www.anotheruiguy.com/ux-design-dev/_book/sass/README.html)
 ## Javascript
 
 # Databases
