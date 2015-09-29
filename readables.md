@@ -23,14 +23,14 @@ remember
 
 # Shells
 ## Zsh
-* [Filename Generation(http://zsh.sourceforge.net/Intro/intro_2.html)
+* [Filename Generation](http://zsh.sourceforge.net/Intro/intro_2.html)
 
 # Languages
 ## Javascript
 
 # Databases
 ## MongoDB 
-* [ The Little MongoBD Book](http://openmymind.net/mongodb.pdf)
+* [The Little MongoBD Book](http://openmymind.net/mongodb.pdf)
 
 #Tools
 ## Vim 
