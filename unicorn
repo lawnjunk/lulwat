@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "gimme urname"
+echo -n "> "
+read wat
+
+echo "your name is $wat"
