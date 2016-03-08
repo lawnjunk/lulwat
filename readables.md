@@ -49,7 +49,7 @@ remember
 * [The Little MongoBD Book](http://openmymind.net/mongodb.pdf)
 
 #Tools
-# this is! a test(cool) [45 min]
+# This is! a test(cool) [45 min]
 ## Vim 
  * [How to boost your vim](http://sheerun.net/2014/03/21/how-to-boost-your-vim-productivity/)
  * [vim regular expressions](http://vimregex.com/)
