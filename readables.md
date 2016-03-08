@@ -7,6 +7,7 @@ i no longer want on my reading list, but do want to
 remember
 ```
 
+
 # Index
 * [\*nix](#*nix)
   * [Unix System Errors](http://www-numi.fnal.gov/offline_software/srt_public_context/WebDocs/Errors/unix_system_errors.html)
@@ -47,6 +48,7 @@ remember
 * [The Little MongoBD Book](http://openmymind.net/mongodb.pdf)
 
 #Tools
+# this is a test(cool)
 ## Vim 
  * [How to boost your vim](http://sheerun.net/2014/03/21/how-to-boost-your-vim-productivity/)
  * [vim regular expressions](http://vimregex.com/)
